@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The execution of the Popish lord: or, The traytor's downfall Being an account of the beheading of VVilliam Viscount Stafford for high treason: on the 29th. of this instant December, 1680. On a scaffold erected for that purpose, on Tower-hill: with many particulars most remarkable, that happened therein. And of the disposal of his body after execution. Which may be a large warning to all the yet remaining Popish conspirators; how they seek to take away the life of the King, and by seeking to destroy the Protestant religion, have hopes to plant Popery once more in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39047</idno>
+            <idno type="STC">Wing E3855A</idno>
+            <idno type="STC">ESTC R218240</idno>
+            <idno type="EEBO-CITATION">99829851</idno>
+            <idno type="PROQUEST">99829851</idno>
+            <idno type="VID">34297</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34297)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2028:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The execution of the Popish lord: or, The traytor's downfall Being an account of the beheading of VVilliam Viscount Stafford for high treason: on the 29th. of this instant December, 1680. On a scaffold erected for that purpose, on Tower-hill: with many particulars most remarkable, that happened therein. And of the disposal of his body after execution. Which may be a large warning to all the yet remaining Popish conspirators; how they seek to take away the life of the King, and by seeking to destroy the Protestant religion, have hopes to plant Popery once more in England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Golden-Ball in West-Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page woodcut.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, William Howard, --  Viscount, 1614-1680 --  Early works to 1800.</term>
+               <term>Stafford, William Howard, --  Viscount, 1614-1680 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34297:1" rendition="simple:additions"/>
+            <p>The Execution of the Popiſh LORD: OR, THE TRAYTOR'S DOWNFALL.</p>
+            <p>Being an Account of the BEHEADING OF William Viſcount Stafford</p>
+            <p>For High Treaſon: On the <hi>29th.</hi> of this Inſtant <hi>December,</hi> 1680.</p>
+            <p>On a Scaffold Erected for that Purpoſe, on <hi>Tower-hill:</hi> with many particulars moſt Remarkable, that happened therein. And of the Diſpoſal of his Body after Execution. Which may be a large warn<g ref="char:EOLhyphen"/>ing to all the yet remaining Popiſh Conſpirators; how they ſeek to take away the Life of the King, and by ſeeking to deſtroy the Pro<g ref="char:EOLhyphen"/>teſtant Religion, have hopes to plant <hi>Popery</hi> once more in <hi>England.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut depiction of an execution</figDesc>
+            </figure>
+            <p>Printed for <hi>P. Brooksby,</hi> at the Golden-Ball in <hi>Weſt-Smithfield.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:34297:2"/>
+            <pb n="1" facs="tcp:34297:2" rendition="simple:additions"/>
+            <head>The Execution of THE Popiſh Lord, <hi>&amp;c.</hi>
+            </head>
+            <div type="foreword">
+               <p>IN moſt Caſes it is obſervrd, that Traytors ſeldom depart in Silence or quiet to their Graves, ſome untimely Death or other ſtill awaits their Impieties, and thoſe that dig Pits for others, moſt commonly fall into the ſame themſelves; for 'tis certain, that thoſe whom the effects of ſuch Treaſon moſt may profit, will in no wiſe after truſt the Traytor, leaſt he upon ſome diſtaſt ſhould Propagate, or at leaſt endeavour the like againſt him when opportunity lies fair; For in Ancient
+<pb n="2" facs="tcp:34297:3"/>Times it has been noted, that Traytors have been look<g ref="char:EOLhyphen"/>ed upon as <hi>Infernal Peſts,</hi> even by thoſe they have Perpetrated their Villanies and Ignominious Treaſons to advance: Nay, could not the ſhort ſight of Humane Reaſon dive into their Pernicious ways, the God that views the Secrets of all hearts, would by one means or other lay them open to the World; ſo that each diſcer<g ref="char:EOLhyphen"/>ning Soul might fatham the depth of their dire policies, ſo often is their Wiſdom turned into Fooliſhneſs: and when they think their Plots moſt ſecure, they are neareſt diſcovery; as has been in the moſt of their late Con<g ref="char:EOLhyphen"/>ſpiracies and intended Evaſions. But to come nearer to the particulars of this late Lord <hi>Viſcount Stafford,</hi> of whoſe deſerved downfall we are to inform the world.</p>
+            </div>
+            <div type="execution_account">
+               <p>HE being formerly but a-mean Gentleman, but Marrying to the Counteſs of <hi>Stafford,</hi> his Ma<g ref="char:EOLhyphen"/>jeſty was graciouſly pleaſed to Confer the Titles and Honours of that Family upon him; for which, Viper-like, he endeavoured to deſtroy what was the onely fountain of his Greatneſs and Proſperity; by engaging a Damnable and Helliſh Plot, againſt the Life of the King and Proteſtant Government; which juſt as it was going to break in upon us, was by the will of Divine Providence, made mani<g ref="char:EOLhyphen"/>feſt to the whole Nation; broached even by thoſe that themſelves had given the greateſt Confidence to; for all the Evidence that have as yet been Inſtrumental in the Diſcovery, were thoſe whom
+<pb n="3" facs="tcp:34297:3" rendition="simple:additions"/>they had imployed for the promoting the Deſign, ſo weak is the piercing Intelect of Humane reaſon compared with that Divine. Full Sixteen Years, according to Evidence, has this Device been man<g ref="char:EOLhyphen"/>naged, not only by the whole Conclave of <hi>Popiſh Cardinals,</hi> the <hi>Pope,</hi> and the greateſt part of his Clergy, but by a great part, if not all the <hi>Popiſh</hi> No<g ref="char:EOLhyphen"/>bility of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> whoſe E<g ref="char:EOLhyphen"/>ſtates have been conſumed and much impaired in the Management of the ſame, as hoping to be doubly repayed, in poſſeſſing the Lands and Wealths of Hereticks, as was alſo proved againſt this Lord. True it is, they looked for a plentiful Harveſt be<g ref="char:EOLhyphen"/>cauſe their Deſign was to fatten the Earth with <hi>Proteſtant</hi> Blood; nor did the Maſſacre they deſign<g ref="char:EOLhyphen"/>ed, portend any leſs: All above Ten years Old had Periſhed by preſcription, had not the Mercy of an Infinite God interpoſed to have ſtopped the Torrent of their Rage, which like a Flood was ſwel'd even with the Banks, and juſt prepared to overflow Church and State; but in what they thought themſelves moſt ſecure, they were found moſt Weak, for by Murthering Sir <hi>Edmundbury God<g ref="char:EOLhyphen"/>frey,</hi> to prevent a farther Diſcovery, they laid their Wicked Projects open to the view of all; whereupon many of the Plotting Traytors were Detected, and amongſt the reſt, this Viſcount continuing by a Commitment of Parliament a long ſpace Priſoner in the Tower, where no ways were left unpracticed to gain his Freedom, but
+<pb n="4" facs="tcp:34297:4"/>his nor any the reſt could prevail, for on the Thirtieth of <hi>November</hi> he was brought in a Barge from his Impriſonment, to <hi>Weſtminſter</hi>-Hall, where the Great Court of Juſtice was Erected for his Tryal, the Tower Ax being born before him: His Looks at the beginning of his Tryal were Blith and Chearful, as not fearing any ill Con<g ref="char:EOLhyphen"/>ſequence, but when he heard the Witneſſes ſwear, in number Three, That he would have Hired ſome or all of them, to Murther the King, and that the Proteſtants ſhould be Maſſacred, and that he was in the Conſpiracy to bring in a Foraign Power, and to Eſtabliſh <hi>Popery,</hi> he began to Tremble and look pale. It's true, he produced many Witneſſes, but they could not ſpeak any thing to the purpoſe in his behalf, their Affirma<g ref="char:EOLhyphen"/>tion conſiſted only in Circumſtances, and rather perjudiced his Cauſe then farther'd it; In fine, he was found Guilty by his <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eers, the Lords Tem<g ref="char:EOLhyphen"/>poral aſſembled in Parliament, and according to his juſt Deſerts, received Sentence of death; be<g ref="char:EOLhyphen"/>ing conveyed back to the Tower, where he con<g ref="char:EOLhyphen"/>tinued till this day, preparing for his Latter end, yet by no means forſaking thoſe prepoſterous Su<g ref="char:EOLhyphen"/>perſtitions that had brought ſuch Ruine on his Head.</p>
+               <p>In the morning he was brought out of the Tower, attended by a Guard of Partiſans and Souldiers, the Tower Hamlets making a Lane for him to
+<pb n="5" facs="tcp:34297:4"/>paſs to the Scaffold, prepared for his Execution; great part of the City Train'd-bands being in Arms. When he came to the Scaffold he was helped up by two or three Attendants; and being moun<g ref="char:EOLhyphen"/>ted looked very wiſhfully, as loath (no doubt) to dye: for ſure it is, how ever men can ſlight death at a diſtance, yet when it comes near them, and is certain, it ſtrikes a Conſternation, eſpecially where the Breaſt is charged with Guilt and diabo<g ref="char:EOLhyphen"/>lick Treaſons.</p>
+               <p>After he had ſpoke to ſome of his Friends, and made ſeveral prayers to himſelf, for the moſt part holding in his hand, as it is ſaid, his Beads and Crucifix, he kneeled down to try how the Block fitted, then having a Cap on, he after ſome con<g ref="char:EOLhyphen"/>ſideration, gave the Executioner a ſign to ſtrike, which he did, and with one inforced ſtroke, di<g ref="char:EOLhyphen"/>vided the Head from the body, both of them containing motion of Life for a while, but the body longeſt.</p>
+               <p>After Execution his Head and body were wrap<g ref="char:EOLhyphen"/>ed up in a convenient Garment, or put in a Coffin, and carried back to be diſpoſed of as his Majeſty ſhall think fit. Thus was he Rewarded for his Treaſonable practices, and received the Merits due to ſuch Helliſh intents; ſo that although Juſtice doth oftentimes delay, yet at laſt it will ſtrike home, to the deſtroying from off the face of the
+<pb n="6" facs="tcp:34297:5"/>earth, all ſuch as wilfully Sin againſt their own Conſciences, to gratifie Ambition or Revenge, a<g ref="char:EOLhyphen"/>gainſt ſuch who never offered them the leaſt In<g ref="char:EOLhyphen"/>dignity: For as notonly this Lord, but many others did confeſs that the King could no ways be found fault withal, but was a good and juſt Prince, but being a Heretick and not for their turns, he muſt be made away. So the Devil, out of envy to their Happineſs, plotted the Downfal of our firſt Parents in <hi>Paradice,</hi> and ever ſince wicked men have envy to thoſe that are Upright.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
